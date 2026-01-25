@@ -2,7 +2,7 @@
 
 I'm a **Computer Science** student at **UC San Diego** (Class of 2028) with a focus on aerospace software, full-stack development, and data engineering. I enjoy cars, aviation, gaming, public transportation (Fund public transit!) and coffee!
 
-Currently, I work as a **Flight Software Engineer** at **[Rocket Propulsion Laboratory at UCSD](https://www.rocketproplab.org/)** and as a **Software Developer** at **[Trition Software Engineering](https://www.tritonse.github.io/)**. Previously, I was a **Software Engineering Intern** at **[NASA Ames Research Center](https://www.nasa.gov/)**, where I developed database architectures for small satellite components and an Undergraduate Research Assistant under [UCSD MAE department](https://mae.ucsd.edu/) where I developed and piloted MATLAB applications for Mechanical Engineering students.
+Currently, I work as a **Flight Software Engineer** at **[Rocket Propulsion Laboratory at UCSD](https://www.rocketproplab.org/)** and as a **Software Developer** at **[Trition Software Engineering](https://tritonse.github.io/)**. Previously, I was a **Software Engineering Intern** at **[NASA Ames Research Center](https://www.nasa.gov/)**, where I developed database architectures for small satellite components and an Undergraduate Research Assistant under [UCSD MAE department](https://mae.ucsd.edu/) where I developed and piloted MATLAB applications for Mechanical Engineering students.
 
 ### 🛠️ Technical Skills
 * **Programming Languages**: Python, Java, C++, C, JavaScript, TypeScript, Go, C#, HTML/CSS
